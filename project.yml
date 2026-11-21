@@ -6,7 +6,7 @@ options:
 packages:
   LLM:
     url: https://github.com/eastriverlee/LLM.swift
-    exactVersion: 1.5.1
+    revision: 4b2517839f24498bea0695bae8967b359b9a35c4
 targets:
   Jarvis:
     type: application
